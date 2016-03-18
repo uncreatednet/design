@@ -1,0 +1,71 @@
+/*[fmt]2A10-1A0B-3*/
+table.applicationLogs  {
+ font-size: 1em;
+ width: auto;
+}
+
+table.applicationLogs th  {
+ background: #fff;
+ padding: 2px 4px;
+}
+
+table.applicationLogs tr.logYesterday {
+ background: #EBF2F6 url('../images/logtypes/yesterday.gif') top right;
+ border: 1px solid #ddd;
+}
+
+table.applicationLogs tr.logToday  {
+background: #EBF2F6 url('../images/logtypes/today.gif') top right;
+ border: 1px solid #ddd;
+}
+
+table.applicationLogs tr.logYesterday td.logTypeIcon  {
+ border-top: 1px solid #C9EAA9;
+}
+
+table.applicationLogs tr.logOlder td.logDetails, table.applicationLogs tr.logOlder td.logProject, table.applicationLogs tr.logOlder td.logTakenOnBy  {
+ border: 1px solid #E0E0E0;
+}
+
+table.applicationLogs tr.logOlder td.logTypeIcon  {
+ border: 1px solid #E0E0E0;
+}
+
+/*END FIX*/
+table.applicationLogs td  {
+ padding: 2px 4px;
+}
+
+table.applicationLogs td.logTypeIcon  {
+ padding: 2px 6px;
+ text-align: right;
+ width: 50px;
+}
+
+table.applicationLogs .logProject, table.applicationLogs .logTakenOnBy  {
+ text-align: left;
+}
+
+table.applicationLogs .logProject  {
+ width: 120px;
+ text-align: right;
+}
+
+table.applicationLogs .logTakenOnBy  {
+ width: 120px;
+}
+
+div.logProjectHeader  {
+ padding: 5px 0px 2px 0px;
+ font-weight: bold;
+ font-size: 14px;
+}
+
+table.applicationLogs.logBy  {
+ width: 150px;
+}
+
+table.applicationLogs td.logDetails  {
+ width: 350px;
+}
+
