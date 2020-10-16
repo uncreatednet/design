@@ -14,7 +14,7 @@
    height="594"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="A1 2018.svg"
    viewBox="0 0 841 594">
   <defs
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="277.00378"
-     inkscape:cy="296.75317"
+     inkscape:zoom="1.4"
+     inkscape:cx="438.76403"
+     inkscape:cy="299.17731"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -98,6 +98,19 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-458.36202)">
+    <text
+       freecad:editable="etapa"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="896.27032"
+       y="795.39081"
+       id="text4181-3-9-6-75-5-2-1-3"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="896.27032"
+         y="795.39081"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-6">ETAPA</tspan></text>
     <path
        style="fill:none;stroke:#000235;stroke-width:0.60527778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 25.090601,473.91479 H 15.002639 v 10.08796"
@@ -151,7 +164,7 @@
          sodipodi:role="line"
          x="722.24683"
          y="1015.2317"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:ultra-condensed;font-size:7.56231833px;line-height:45.05487442px;font-family:Antonio;-inkscape-font-specification:'Antonio Ultra-Condensed';text-align:start;text-anchor:start;stroke-width:1.00830901px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.13333333px;line-height:45.05487442px;font-family:Gnuolane;-inkscape-font-specification:Gnuolane;text-align:start;text-anchor:start;stroke-width:1.00830901px"
          id="tspan4208-8-7-9">UNCREATED.NET ARQUITETOS</tspan></text>
     <text
        xml:space="preserve"
@@ -162,18 +175,18 @@
          sodipodi:role="line"
          x="722.21912"
          y="1036.6375"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:ultra-condensed;font-size:5px;line-height:23.4375px;font-family:Antonio;-inkscape-font-specification:'Antonio Ultra-Condensed';text-align:start;text-anchor:start;stroke-width:0.99999988px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.6px;line-height:23.4375px;font-family:Gnuolane;-inkscape-font-specification:Gnuolane;text-align:start;text-anchor:start;stroke-width:0.99999988px"
          id="tspan4208-8-7-9-7-4-5">(11) 3214 6330  coletivo@uncreated.net</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:35.74686813px;line-height:44.68359375px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="722.21912"
-       y="1031.0125"
+       y="1030.2982"
        id="text4181-3-9-6-7-7-8-3"><tspan
          sodipodi:role="line"
          x="722.21912"
-         y="1031.0125"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:ultra-condensed;font-size:5px;line-height:23.43749809px;font-family:Antonio;-inkscape-font-specification:'Antonio Ultra-Condensed';text-align:start;text-anchor:start;stroke-width:0.99999988px"
+         y="1030.2982"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5999999px;line-height:23.43749809px;font-family:Gnuolane;-inkscape-font-specification:Gnuolane;text-align:start;text-anchor:start;stroke-width:0.99999988px"
          id="tspan4208-8-7-9-7-4-5-6">http://www.uncreated.net</tspan></text>
     <text
        freecad:editable="Projeto"
@@ -186,7 +199,7 @@
          sodipodi:role="line"
          x="860.25769"
          y="831.86121"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.00736809px;line-height:53.66420364px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.00736809px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
          id="tspan4208-8-7-9-3">PROJETO</tspan></text>
     <text
        freecad:editable="Endereco"
@@ -199,59 +212,59 @@
          sodipodi:role="line"
          x="860.25769"
          y="836.58386"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:53.66420364px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:Gnuolane;text-align:start;text-anchor:start;stroke-width:1.20098221px"
          id="tspan4208-8-7-9-3-6">ENDEREÇO</tspan></text>
     <text
        freecad:editable="Escala"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="860.25769"
-       y="816.11902"
+       x="896.15369"
+       y="809.76233"
        id="text4181-3-9-6-75-5-2"
        transform="scale(0.83957029,1.1910855)"><tspan
          sodipodi:role="line"
-         x="860.25769"
-         y="816.11902"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:1.20098221px"
-         id="tspan4208-8-7-9-3-6-9">ESCALA 1:50</tspan></text>
+         x="896.15369"
+         y="809.76233"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:Gnuolane;text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9">1:50</tspan></text>
     <text
-       freecad:editable="Etapa"
+       freecad:editable="revision"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="860.25769"
-       y="811.39636"
+       x="896.26215"
+       y="800.04163"
        id="text4181-3-9-6-75-5-2-1"
        transform="scale(0.83957029,1.1910855)"><tspan
          sodipodi:role="line"
-         x="860.25769"
-         y="811.39636"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
-         id="tspan4208-8-7-9-3-6-9-2">ETAPA DO PROJETO</tspan></text>
+         x="896.26215"
+         y="800.04163"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2">REV</tspan></text>
     <text
-       freecad:editable="Folha"
+       freecad:editable="numero"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="959.38379"
-       y="811.39636"
+       x="963.00586"
+       y="773.47821"
        id="text4181-3-9-6-75-5-2-1-9"
        transform="scale(0.83957029,1.1910855)"><tspan
          sodipodi:role="line"
-         x="959.38379"
-         y="811.39636"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:1.20098221px"
-         id="tspan4208-8-7-9-3-6-9-2-3">FOLHA 0/0</tspan></text>
+         x="963.00586"
+         y="773.47821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:Gnuolane;text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-3">00/00</tspan></text>
     <text
-       freecad:editable="Data"
+       freecad:editable="data"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="959.22003"
-       y="816.11902"
+       x="896.08319"
+       y="804.72491"
        id="text4181-3-9-6-75-5-2-1-9-6"
        transform="scale(0.83957029,1.1910855)"><tspan
          sodipodi:role="line"
-         x="959.22003"
-         y="816.11902"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         x="896.08319"
+         y="804.72491"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:Gnuolane;text-align:start;text-anchor:start;stroke-width:1.20098221px"
          id="tspan4208-8-7-9-3-6-9-2-3-0">00.00.0000</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -265,9 +278,200 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 722.71208,960.3196 H 826.16074"
+       d="M 722.71208,940.43255 H 826.16074"
        id="path1157-6-2"
        inkscape:connector-curvature="0" />
+    <text
+       freecad:editable="titulo1"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.93445"
+       y="772.94312"
+       id="text4181-3-9-6-75-7"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.93445"
+         y="772.94312"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.00736809px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-5">TÍTULO 1</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 722.71208,910.76818 H 826.16074"
+       id="path1157-6-3"
+       inkscape:connector-curvature="0" />
+    <text
+       freecad:editable="titulo2"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.93445"
+       y="781.33881"
+       id="text4181-3-9-6-75-7-5"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.93445"
+         y="781.33881"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.00736809px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-5-6">TÍTULO 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.87738"
+       y="795.39081"
+       id="text4181-3-9-6-75-5-2-1-3-2"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.87738"
+         y="795.39081"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-6-9">ETAPA DO PROJETO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.67828"
+       y="800.04163"
+       id="text4181-3-9-6-75-5-2-1-7"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.67828"
+         y="800.04163"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-0">REVISIÃO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.67828"
+       y="805.07904"
+       id="text4181-3-9-6-75-5-2-1-7-9"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.67828"
+         y="805.07904"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-0-3">DATA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.67828"
+       y="810.11646"
+       id="text4181-3-9-6-75-5-2-1-7-9-6"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.67828"
+         y="810.11646"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-0-3-0">ESCALA</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect988"
+       width="103.44865"
+       height="99.08683"
+       x="722.71204"
+       y="792.56091" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.789"
+       y="753.93762"
+       id="text4181-3-9-6-75-5-2-1-3-2-2"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.789"
+         y="753.93762"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-6-9-6">SITUAÇÃO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.789"
+       y="659.58716"
+       id="text4181-3-9-6-75-5-2-1-3-2-2-1"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.789"
+         y="659.58716"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-6-9-6-8">LEGENDA</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 722.71208,778.94327 H 826.16074"
+       id="path1157-6-3-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.789"
+       y="592.42163"
+       id="text4181-3-9-6-75-5-2-1-3-2-2-1-2"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.789"
+         y="592.42163"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-6-9-6-8-0">NOTAS</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 722.71208,698.94327 H 826.16074"
+       id="path1157-6-3-7-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.789"
+       y="578.98853"
+       id="text4181-3-9-6-75-5-2-1-3-2-2-1-2-3"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.789"
+         y="578.98853"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-6-9-6-8-0-6">Em caso de divergência, verificar com os/as arquitetos/as.</tspan><tspan
+         sodipodi:role="line"
+         x="860.789"
+         y="642.30481"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan891" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.789"
+       y="573.95111"
+       id="text4181-3-9-6-75-5-2-1-3-2-2-1-2-3-7"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.789"
+         y="573.95111"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-6-9-6-8-0-6-5">Todas as medidas devem ser conferidas na obra antes da execuçao.</tspan><tspan
+         sodipodi:role="line"
+         x="860.789"
+         y="637.2674"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan891-3" /></text>
+    <text
+       freecad:editable="arquivo"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="896.15369"
+       y="814.79974"
+       id="text4181-3-9-6-75-5-2-3"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="896.15369"
+         y="814.79974"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:Gnuolane;text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-6">ARQUIVO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.93136215px;line-height:53.66420364px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20098221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="860.67828"
+       y="815.15387"
+       id="text4181-3-9-6-75-5-2-1-7-9-6-7"
+       transform="scale(0.83957029,1.1910855)"><tspan
+         sodipodi:role="line"
+         x="860.67828"
+         y="815.15387"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.00000048px;line-height:53.66420364px;font-family:Gnuolane;-inkscape-font-specification:'Gnuolane Bold';text-align:start;text-anchor:start;stroke-width:1.20098221px"
+         id="tspan4208-8-7-9-3-6-9-2-0-3-0-5">ARQUIVO</tspan></text>
   </g>
   <!-- DrawingContent -->
 </svg>
